@@ -57,17 +57,12 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-<<<<<<< HEAD
- 
-=======
-
->>>>>>> 5aa9ef911d406d48b078770bb8374e53ac221bfb
     }
 
     public void validaLogin(){
 
-        autenticacao = ConfiguracaoFirebase.getFirebaseAutenticacao();
-        autenticacao.signInWithEmailAndPassword()
+//        autenticacao = ConfiguracaoFirebase.getFirebaseAutenticacao();
+//        autenticacao.signInWithEmailAndPassword();
 
     }
 
